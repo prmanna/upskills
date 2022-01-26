@@ -1,8 +1,12 @@
 ---
-title: How to sleep productively
+title: "How to sleep productively"
 date: 2022-01-25
-# description: How to sleep productively
+description: "How to sleep productively"
 tags: ["Productivity"]
+draft: false
+showDate: true         # to enable/disable showing dates
+math: true              # to enable showing equations (katex)
+chordsheet: true        # to add chordsheet styelsheet
 ---
 
 ### Sleep Facts
