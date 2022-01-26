@@ -2,7 +2,7 @@ baseURL = "https://prasenjitmanna.com/upskills"
 #CanonifyURLs=true
 
 languageCode = "en-us"
-theme = "ramium"
+theme = "ramium1"
 
 title = "Upskills"
 disqusShortname = ""
