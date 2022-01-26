@@ -45,18 +45,18 @@ enableemoji = false
                 name = "All Tags"
                 url = "/tags/"
                 weight = 1
-            [[menu.main]]
-                parent = "blog"
-                name = "All Sections"
-                url = "/sections/"
-                weight = 2
+            #[[menu.main]]
+                #parent = "blog"
+                #name = "All Sections"
+                #url = "/sections/"
+                #weight = 2
             [[menu.main]]
                 parent = "blog"
                 name = "All Posts"
                 url = "/posts/"
                 weight = 3
     
-    [[menu.main]]
-        name = "Author"
-        url = "/author/"
-        weight = 3
+    #[[menu.main]]
+        #name = "Author"
+        #url = "/author/"
+        #weight = 3
