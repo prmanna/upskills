@@ -3,7 +3,7 @@ title: "Placeholder Text"
 date: 2020-04-15
 description: "Lorem Ipsum Dolor Si Amet"
 tags: ["markdown", "text"]
-draft: false
+draft: true
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)
 chordsheet: true        # to add chordsheet styelsheet
