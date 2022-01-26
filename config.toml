@@ -2,7 +2,7 @@ baseURL = "https://prasenjitmanna.com/upskills"
 #CanonifyURLs=true
 
 languageCode = "en-us"
-theme = "ramium1"
+theme = "ramium"
 
 title = "Upskills"
 disqusShortname = ""
@@ -17,7 +17,7 @@ enableemoji = false
     adsense = ""
     showDate = true # make false if dont want to show date
     math = false # best to enable this in the front matter of a page
-    #githubProfile = "rafed/ramium/"
+    #githubProfile = ""
 
     tagsInHome = 40    # set zero to not show in home page
     sectionsInHome = 0 # set zero to not show in home page
