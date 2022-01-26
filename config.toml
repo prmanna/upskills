@@ -19,8 +19,8 @@ enableemoji = false
     math = false # best to enable this in the front matter of a page
     #githubProfile = "rafed/ramium/"
 
-    tagsInHome = 40
-    sectionsInHome = 5
+    tagsInHome = 40    # set zero to not show in home page
+    sectionsInHome = 0 # set zero to not show in home page
     paginatePostsPerPage = 5
     paginateTagsPerPage = 6
 
