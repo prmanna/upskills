@@ -3,7 +3,7 @@ title: "How to sleep productively2"
 date: 2022-01-25
 description: "How to sleep productively2"
 tags: ["Productivity2"]
-draft: false
+draft: true
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)
 chordsheet: true        # to add chordsheet styelsheet
