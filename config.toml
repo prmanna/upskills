@@ -21,7 +21,7 @@ enableemoji = false
 
     tagsInHome = 40    # set zero to not show in home page
     sectionsInHome = 0 # set zero to not show in home page
-    paginatePostsPerPage = 2
+    paginatePostsPerPage = 5
     paginateTagsPerPage = 6
 
 [taxonomies]
