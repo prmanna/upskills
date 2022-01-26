@@ -2,7 +2,7 @@
 title: "How to sleep productively2"
 date: 2022-01-25
 description: "How to sleep productively2"
-tags: ["text"]
+tags: ["Productivity"]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)
