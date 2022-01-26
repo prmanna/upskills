@@ -4,7 +4,7 @@ baseURL = "https://prasenjitmanna.com/upskills"
 languageCode = "en-us"
 theme = "ramium"
 
-title = "Ramium"
+title = "Upskills"
 disqusShortname = ""
 googleAnalytics = ""
 summaryLength = 40
@@ -17,7 +17,7 @@ enableemoji = false
     adsense = ""
     showDate = true # make false if dont want to show date
     math = false # best to enable this in the front matter of a page
-    githubProfile = "rafed/ramium/"
+    #githubProfile = "rafed/ramium/"
 
     tagsInHome = 40
     sectionsInHome = 5
