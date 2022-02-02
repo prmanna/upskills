@@ -3,7 +3,7 @@ title: "Your network is your NET WORTH"
 date: 2022-02-02
 description: "Your network is your NET WORTH"
 tags: ["Career", "Personal Brand"]
-draft: true
+draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)
 chordsheet: true        # to add chordsheet styelsheet
