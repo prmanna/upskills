@@ -1,7 +1,7 @@
 ---
-title: "The importance of hard & smart work"
-date: 2022-02-27
-description: "The importance of hard & smart work"
+title: "The importance of hard & smart work by Naval"
+date: 2022-02-28
+description: "The importance of hard & smart work by Naval"
 tags: ["Career"]
 draft: false
 showDate: true         # to enable/disable showing dates
