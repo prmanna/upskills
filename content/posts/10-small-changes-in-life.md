@@ -1,7 +1,7 @@
 ---
-title: "10 small changes that will improve your life"
+title: "10 small changes that will improve your life | Matt D'Avella"
 date: 2022-02-17
-description: "10 small changes that will improve your life"
+description: "10 small changes that will improve your life | Matt D'Avella"
 tags: ["Productivity"]
 draft: false
 showDate: true         # to enable/disable showing dates
