@@ -2,7 +2,7 @@
 title: "US Stock Investing | Ankur Warikoo "
 date: 2022-03-08
 description: "US Stock Investing | Ankur Warikoo"
-tags: ["U\S Stock"]
+tags: ["US Stock"]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)
