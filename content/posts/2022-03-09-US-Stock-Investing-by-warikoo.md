@@ -16,3 +16,6 @@ chordsheet: true        # to add chordsheet styelsheet
 
 {{< youtube id="xvYCUkfp11U" title="US Stock Investing - Things to keep in mind | Ankur Warikoo" >}}
 
+{{< youtube id="JRDIqW6UyK4" title="Why I invest in US Stocks - And you should, too! | Ankur Warikoo" >}}
+
+{{< youtube id="xcgzPjH9Vh8" title="20 Foreign Tech Stocks to buy in 2021! | Ankur Warikoo" >}}
