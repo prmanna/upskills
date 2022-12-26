@@ -39,9 +39,14 @@ enableemoji = false
         weight = 1
 
     [[menu.main]]
+        name = "Reading"
+        url = "/reading/"
+        weight = 2
+
+    [[menu.main]]
         identifier = "blog"
         name = "This Blog"
-        weight = 2
+        weight = 3
             [[menu.main]]
                 parent = "blog"
                 name = "All Tags"
@@ -58,10 +63,6 @@ enableemoji = false
                 url = "/posts/"
                 weight = 3
     
-    [[menu.main]]
-        name = "Reading"
-        url = "/reading/"
-        weight = 3
     #[[menu.main]]
         #name = "Author"
         #url = "/author/"
