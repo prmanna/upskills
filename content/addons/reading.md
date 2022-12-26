@@ -8,4 +8,5 @@ url: "/reading/"
 image: "/image/profile.png"
 ---
 
-[https://hourups.com/](https://hourups.com/)
+### Appendix: Collection of Tech Skills
+* [Learn Tech Skills (Fast!)](https://hourups.com/)
