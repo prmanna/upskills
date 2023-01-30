@@ -10,3 +10,4 @@ image: "/image/profile.png"
 
 ### Appendix: Collection of Tech Skills
 * [Learn Tech Skills (Fast!)](https://hourups.com/)
+* [Marketing Examples](https://marketingexamples.com/)
