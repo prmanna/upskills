@@ -20,4 +20,4 @@ chordsheet: true        # to add chordsheet styelsheet
 #### References
 * [Foundational Fitness Protocol](https://www.hubermanlab.com/newsletter/foundational-fitness-protocol)
 * [Stretching Protocols to Increase Flexibility and Support General Health](https://www.hubermanlab.com/newsletter/stretching-protocols-to-increase-flexibility-and-support-general-health)
-* []Hyperbolic Stretching(https://hyperbolicstretching.net/)
+* [Hyperbolic Stretching](https://hyperbolicstretching.net/)
