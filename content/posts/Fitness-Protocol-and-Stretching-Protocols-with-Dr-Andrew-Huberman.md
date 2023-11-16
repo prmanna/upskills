@@ -17,7 +17,7 @@ chordsheet: true        # to add chordsheet styelsheet
 3. [Protocol #2: PNF Stretching](https://assets-global.website-files.com/64416928859cbdd1716d79ce/650e4559a41e6e696b2a56a4_July_Neural_Network_Newsletter_Protocol_2.pdf)
 3. [Protocol #3: Antagonistic Muscle Group Training](https://uploads-ssl.webflow.com/64416928859cbdd1716d79ce/651b3c049cc7882ca0b9935f_July2022_Neural_Network_Newsletter_Protocol_3.pdf)
 
+#### References
 * [Foundational Fitness Protocol](https://www.hubermanlab.com/newsletter/foundational-fitness-protocol)
 * [Stretching Protocols to Increase Flexibility and Support General Health](https://www.hubermanlab.com/newsletter/stretching-protocols-to-increase-flexibility-and-support-general-health)
-
-
+* []Hyperbolic Stretching(https://hyperbolicstretching.net/)
