@@ -9,7 +9,7 @@ math: true              # to enable showing equations (katex)
 chordsheet: true        # to add chordsheet styelsheet
 ---
 
-### 5 Rules That Will Drive a Long, Healthy Career | Nikhyl Singhal"
+### 5 Rules That Will Drive a Long, Healthy Career | [Nikhyl Singhal](https://twitter.com/nikhyl?lang=en)
 
 ##### Summary
 Rule #1: Product manage your career like it’s a product.
