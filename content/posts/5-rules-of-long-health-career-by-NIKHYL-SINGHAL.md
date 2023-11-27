@@ -1,6 +1,6 @@
 ---
 title: "5 Rules That Will Drive a Long, Healthy Career | Nikhyl Singhal"
-date: 2023-11-66
+date: 2023-11-26
 description: "5 Rules That Will Drive a Long, Healthy Career | Nikhyl Singhal"
 tags: ["Career"]
 draft: false
