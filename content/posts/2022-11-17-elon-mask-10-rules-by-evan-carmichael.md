@@ -2,7 +2,7 @@
 title: "Elon Musk's 10 Rules for Success | Evan Carmichael"
 date: 2022-11-17
 description: "Elon Musk's 10 Rules for Success | Evan Carmichael"
-tags: ["Success"]
+tags: ["Career"]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true             # to enable showing equations (katex)
