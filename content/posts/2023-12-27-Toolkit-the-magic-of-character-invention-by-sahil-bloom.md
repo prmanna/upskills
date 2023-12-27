@@ -15,9 +15,9 @@ chordsheet: true        # to add chordsheet styelsheet
 * We all struggle with some degree of self-doubt and fear of failure. It's particularly common among ambitious high-achievers, who, by definition, are constantly putting themselves in situations that are on the edge of their current competency level.
 * Character Invention: Create a character in your mind who can show up in the way you want to and teach yourself to "flip the switch" to become this character when necessary.
 * Character Invention in three steps: 
-1. Identify the situations where you'd like to show up as the best version of yourself, 
-2. Envision the character you would like to embody in each situation, and 
-3. Get yourself some reps by turning on this character in those situations.
+  1. Identify the situations where you'd like to show up as the best version of yourself, 
+  2. Envision the character you would like to embody in each situation, and 
+  3. Get yourself some reps by turning on this character in those situations.
 
  
 #### References
