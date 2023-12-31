@@ -11,6 +11,6 @@ chordsheet: true        # to add chordsheet styelsheet
 
 ### Toolkit - Annual Review & Planning by [Sahil Bloom](https://twitter.com/SahilBloom)
 
-[Toolkit - The 2024 Annual Planning Guide](https://www.sahilbloom.com/newsletter/the-annual-planning-guide)
-[Toolkit - The Personal Annual Review](https://www.sahilbloom.com/newsletter/the-personal-annual-review)
+* [Toolkit - The 2024 Annual Planning Guide](https://www.sahilbloom.com/newsletter/the-annual-planning-guide)
+* [Toolkit - The Personal Annual Review](https://www.sahilbloom.com/newsletter/the-personal-annual-review)
 
