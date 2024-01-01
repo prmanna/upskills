@@ -2,7 +2,7 @@
 title: "Toolkit - The Personal Annual Review | Sahil Bloom"
 date: 2023-12-25
 description: "Toolkit - The Personal Annual Review | Sahil Bloom"
-tags: ["Toolkit"]
+tags: ["Toolkit", "Annual Planning"]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)
