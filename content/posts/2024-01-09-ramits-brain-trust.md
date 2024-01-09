@@ -14,6 +14,8 @@ This brain trust provides access to knowledge, wisdom and proven strategies that
 
 {{< youtubepl id="PLPZCUlZ2z01kZ4dAg5IgWLB0ffDoHCjVi" title="Ramit's Brain Trust Insights | Ramit Sethi" >}}
 
+#
+
 Copied content from [24 Things I Learned in the First Year of Ramit’s Brain Trust](https://medium.com/@ryanstephens/24-things-i-learned-in-the-first-year-of-ramit-s-brain-trust-5d12c577c7df) by [Ryan Stephens](https://twitter.com/ryanstephens)
 
 In November of 2012 I decided to join [professional network/entrepreneurial brain trust](http://www.iwillteachyoutoberich.com/braintrust/).
