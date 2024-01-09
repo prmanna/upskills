@@ -12,4 +12,6 @@ chordsheet: true       # to add chordsheet styelsheet
 
 This brain trust provides access to knowledge, wisdom and proven strategies that top performers uses in business, psychology, finance, marketing, and entrepreneurship.
 
+Copied content from [24 Things I Learned in the First Year of Ramit’s Brain Trust](https://medium.com/@ryanstephens/24-things-i-learned-in-the-first-year-of-ramit-s-brain-trust-5d12c577c7df) by [Ryan Stephens](https://twitter.com/ryanstephens)
+
 {{< youtubepl id="PLPZCUlZ2z01kZ4dAg5IgWLB0ffDoHCjVi" title="Ramit's Brain Trust Insights | Ramit Sethi" >}}
