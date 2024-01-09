@@ -25,15 +25,7 @@ There are two parts to the program:
 - Monthly interviews with a wide array of brilliant people, masters and advisors that have helped countless people with productivity, health, psychology, and more
 - Membership to an exclusive community of ambitious professionals to hold you accountable, encourage you, and help you live a Rich Life
 
-I read [as much](http://ryanstephensmarketing.com/blog/book-reviews/) ([or more](https://medium.com/@ryanstephens/my-favorite-reads-for-2015-b498df3261c9#.no2aa8t4v)) than anyone I know (sans
-
-[Ryan Holiday](https://medium.com/u/2e2701ae378f?source=post_page-----5d12c577c7df--------------------------------)
-
-and
-
-[Shane Parrish](https://medium.com/u/4e1546c1a1a1?source=post_page-----5d12c577c7df--------------------------------)
-
-), but reading is a time consuming endeavor.
+I read [as much](http://ryanstephensmarketing.com/blog/book-reviews/) ([or more](https://medium.com/@ryanstephens/my-favorite-reads-for-2015-b498df3261c9#.no2aa8t4v)) than anyone I know (sans [Ryan Holiday](https://medium.com/u/2e2701ae378f?source=post_page-----5d12c577c7df--------------------------------) and [Shane Parrish](https://medium.com/u/4e1546c1a1a1?source=post_page-----5d12c577c7df--------------------------------)), but reading is a time consuming endeavor.
 
 This brain trust provides access to knowledge, wisdom and proven strategies that top performers use to…
 
@@ -45,16 +37,16 @@ Below are 24 of my favorite takeaways from my first year as a participant in [Ra
 
 # 
 
-[James Altucher](https://medium.com/u/cac1bc5422de?source=post_page-----5d12c577c7df--------------------------------)
+### [James Altucher](https://medium.com/u/cac1bc5422de?source=post_page-----5d12c577c7df--------------------------------)
 
-## 1.) Build Your Life Around Themes, Not Goals
+#### 1.) Build Your Life Around Themes, Not Goals
 
 - Goals focus on outcomes, themes on the process
 - Goals = Not satisfied with where you are. You achieve it once and then not satisfied anymore.
 - Themes = “I want to provide value that will reward me financially.”
 - Scott Adams, the author of Dilbert, has some [great thoughts on goals vs. systems](http://blog.dilbert.com/post/102964992706/goals-vs-systems). So does [James Clear](http://jamesclear.com/goals-systems). And [Rohan Rajiv](http://alearningaday.com/2015/07/goals-vs-systems-and-its-implications-on-management.html).
 
-## 2.) Build Your List, But Also Connect Your List
+#### 2.) Build Your List, But Also Connect Your List
 
 - When you introduce two people who hit it off, you’re the meta connector, the common factor.
 - They will always remember you and you’ll always be on their mind for future potential connections they can make that would be useful for you.
@@ -64,16 +56,16 @@ Below are 24 of my favorite takeaways from my first year as a participant in [Ra
 
 # 
 
-[Charles Duhigg](https://medium.com/u/88f84fcb3bf4?source=post_page-----5d12c577c7df--------------------------------)
+### [Charles Duhigg](https://medium.com/u/88f84fcb3bf4?source=post_page-----5d12c577c7df--------------------------------)
 
-## 3.) The Power of Habit
+#### 3.) The Power of Habit
 
 - Human willpower is limited; it gets depleted over time
 - Like a muscle, you can strengthen it by using it more
 - You should try to change behaviors into habits (e.g brushing your teeth is easy because it’s a habit)
 - Developing good keystone habits (exercising, financial discipline, etc.) creates chain reactions — permeating other areas of your life and changing and rearranging your other habits as you integrate the (keystone) habit into your life.
 
-## 4.) The Three Parts of a Habit
+#### 4.) The Three Parts of a Habit
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*lUDRKIoyPXd3rtmKzr3Ghg.png)
 
@@ -85,15 +77,15 @@ Below are 24 of my favorite takeaways from my first year as a participant in [Ra
 
 # 
 
-[Rob Kelly](https://medium.com/u/90fa6ef7778d?source=post_page-----5d12c577c7df--------------------------------)
+### [Rob Kelly](https://medium.com/u/90fa6ef7778d?source=post_page-----5d12c577c7df--------------------------------)
 
-## 5.) Create a Qualities of Achievement Document
+#### 5.) Create a Qualities of Achievement Document
 
 - This is a simple way to increase your confidence
 - This should be a blueprint to achieve future success
 - Learn more about how to create your own [here](http://robdkelly.com/blog/personal-development/confidence-building-exercise/).
 
-## 6.) Turn Ideas into Reality
+#### 6.) Turn Ideas into Reality
 
 - Leverage your competencies. What are you really good at? What do you love doing?
 - Deposit your content about the topic into the universe.
@@ -103,18 +95,16 @@ This echoes Austin Kleon’s [3 reasons you should show your work](http://austin
 
 [Learn more about how to find your purpose in life](http://ryanstephensmarketing.com/blog/rob_kelly/).
 
-# 
+### [Chris Yeh](https://medium.com/u/962d67bbf4ad?source=post_page-----5d12c577c7df--------------------------------)
 
-[Chris Yeh](https://medium.com/u/962d67bbf4ad?source=post_page-----5d12c577c7df--------------------------------)
-
-## 7.) Networking is Not Transactional
+#### 7.) Networking is Not Transactional
 
 - If someone is smart/interesting, take the time to meet with them.
 - It is about relationships. Meet with smart people and stay in touch.
 - Calling people keeps you top of mind.
 - Talk to people –> Find out where there’s a need –> Prove you can fill that need
 
-## 8.) The Architecture of Top Performers
+#### 8.) The Architecture of Top Performers
 
 What’s your foundation? It needs to be sturdy so you can build on top of it.
 
@@ -124,16 +114,14 @@ What are your non-negotiables that have to take precedence? Things like your fam
 
 [Learn more about how to think like top performers and leaders](http://ryanstephensmarketing.com/blog/chris-yeh/).
 
-# 
+### [BJ Fogg](https://medium.com/u/fb268ac5c474?source=post_page-----5d12c577c7df--------------------------------)
 
-[BJ Fogg](https://medium.com/u/fb268ac5c474?source=post_page-----5d12c577c7df--------------------------------)
-
-## 9.) Create Tiny Habits and Eliminate Barriers to Inefficiency
+#### 9.) Create Tiny Habits and Eliminate Barriers to Inefficiency
 
 - Design for laziness (e.g if there’s a full water bottle on your desk at all times you’ll drink more water)
 - Incremental improvements are more reliable and robust for long-term behavior change
 
-## 10.) Do Hard Things Now to Make Future Things Easy
+#### 10.) Do Hard Things Now to Make Future Things Easy
 
 - Motivation only has one role in our lives and that’s to help us to do hard things.
 - Build a system to make it easy even with low motivation.
@@ -144,18 +132,16 @@ What are your non-negotiables that have to take precedence? Things like your fam
 
 [Learn more about how to get out of a rut and find the motivation to change](http://ryanstephensmarketing.com/blog/bj_fogg/).
 
-# 
+### [Ben Casnocha](https://medium.com/u/b6704f2a323b?source=post_page-----5d12c577c7df--------------------------------)
 
-[Ben Casnocha](https://medium.com/u/b6704f2a323b?source=post_page-----5d12c577c7df--------------------------------)
-
-## 11.) Career Plans Limit Your Options in Today’s World
+#### 11.) Career Plans Limit Your Options in Today’s World
 
 - Sheryl Sandberg says, “I don’t have a career plan”
 - 3 things to keep in mind when thinking about your career:
 
 ![](https://miro.medium.com/v2/resize:fit:556/0*LdgwTXhEUbquLYPX.jpg)
 
-## 12.)When Making Important Decisions, Use the Regret Minimization Framework
+#### 12.)When Making Important Decisions, Use the Regret Minimization Framework
 
 ![](https://miro.medium.com/v2/resize:fit:536/0*quG7fCHg5Gcy2CGe.jpg)
 
@@ -167,11 +153,9 @@ And here’s the Heath brothers [four-step process](http://ryanstephensmarketing
 
 [Learn more about how career builders choose the right path](http://ryanstephensmarketing.com/blog/ben-casnocha/).
 
-# 
+### [Gretchen Rubin](https://medium.com/u/591753f73a84?source=post_page-----5d12c577c7df--------------------------------)
 
-[Gretchen Rubin](https://medium.com/u/591753f73a84?source=post_page-----5d12c577c7df--------------------------------)
-
-## 13.) You’re Probably Happier Than You Think
+#### 13.) You’re Probably Happier Than You Think
 
 The first step to greater happiness is to acknowledge how happy you are now, then deliberately think about what makes you happy to add more of it.
 
@@ -181,7 +165,7 @@ The best way I’ve (personally) found to do this is to start a gratitude journa
 
 [Here’s four rituals to keep you happy all the time](http://www.bakadesuyo.com/2015/05/happy-all-the-time/).
 
-## 14.) Negative Emotions Play an Important Role in Happiness
+#### 14.) Negative Emotions Play an Important Role in Happiness
 
 If you have strong self-knowledge, negative emotions provide signals of things you need to change in your life.
 
@@ -193,15 +177,15 @@ If you have strong self-knowledge, negative emotions provide signals of things y
 
 [Learn more about how to be happy for life](http://ryanstephensmarketing.com/blog/gretchen-rubin/).
 
-# Michael Ellsberg
+### Michael Ellsberg
 
-## 15.) Your Level of Success is Dependent on How Open you are to Feedback
+#### 15.) Your Level of Success is Dependent on How Open you are to Feedback
 
 - It’s not about you (personally); it’s about your performance
 - Actively solicit how you come across to others
 - When asking for feedback, tell others/your boss, “I want your hardest shot and I won’t be offended”
 
-## 16.) A Network of Relationships is Essentially a Network of Trust
+#### 16.) A Network of Relationships is Essentially a Network of Trust
 
 - Act in a way that a large number of people will trust you
 - Proactively suggest some ways to help those in your network; be very specific
@@ -213,9 +197,9 @@ If you have strong self-knowledge, negative emotions provide signals of things y
 
 # 
 
-[Ron Lieber](https://medium.com/u/fcbbd64696d5?source=post_page-----5d12c577c7df--------------------------------)
+### [Ron Lieber](https://medium.com/u/fcbbd64696d5?source=post_page-----5d12c577c7df--------------------------------)
 
-## 17.) It’s Imperative to Understand the Strategies and Tactics Required to Elevate Your Career
+#### 17.) It’s Imperative to Understand the Strategies and Tactics Required to Elevate Your Career
 
 - Take the time to study the people who came before you
 - Focus on people’s biggest pain points and/or their largest expense
@@ -227,7 +211,7 @@ If you have strong self-knowledge, negative emotions provide signals of things y
 - Stunt + aspirational + useful + service to people = success (e.g Julia Child’s recipes blogged by Julie Powell)
 - Start with your obsessions, then move at half steps to find your beat or niche
 
-## 18.) A Great Way to Build Instant Rapport is to Write Smart, Thoughtful Dashes
+#### 18.) A Great Way to Build Instant Rapport is to Write Smart, Thoughtful Dashes
 
 - Send notes letting people know what you like and/or admire about their work; be very specific and detailed
 - Example: “Hey I read your thing and I liked/noticed/appreciated…”
@@ -236,16 +220,16 @@ If you have strong self-knowledge, negative emotions provide signals of things y
 
 # 
 
-[Chris Guillebeau](https://medium.com/u/e34c8275921a?source=post_page-----5d12c577c7df--------------------------------)
+### [Chris Guillebeau](https://medium.com/u/e34c8275921a?source=post_page-----5d12c577c7df--------------------------------)
 
-## 19.) 4 Ways to Manage Criticism
+#### 19.) 4 Ways to Manage Criticism
 
 - Recognize the struggle around focusing on the one negative comment amidst many compliments.
 - Recognize that criticism is often a project of the giver. It might have nothing to do you with you.
 - Take the time to step away, then separate the point from the emotion. There might be truth to the criticism.
 - Adopt a long-term focus. Critics are interested in battles; whereas, you want to win the war.
 
-## 20.) 3 Keys to Achieving Your Goals
+#### 20.) 3 Keys to Achieving Your Goals
 
 - Start with internal motivation
 - Then add public accountability
@@ -255,9 +239,9 @@ If you have strong self-knowledge, negative emotions provide signals of things y
 
 # 
 
-[Josh Kaufman](https://medium.com/u/4442b307d189?source=post_page-----5d12c577c7df--------------------------------)
+### [Josh Kaufman](https://medium.com/u/4442b307d189?source=post_page-----5d12c577c7df--------------------------------)
 
-## 21.) How to Acquire a Skill Rapidly
+#### 21.) How to Acquire a Skill Rapidly
 
 - 20 hours is the critical threshold of practice
 - Deconstruction: Break down the skill. What equipment? What micro skills? (Consider [Tim Ferriss’ DiSSS method](http://www.4hourlife.com/2013/02/11/how-to-use-the-4-hour-chef-and-disss-to-tackle-and-conquer-any-problem/))
@@ -265,7 +249,7 @@ If you have strong self-knowledge, negative emotions provide signals of things y
 - Remove practice barriers
 - Practice, not research, for 20 hours
 
-## 22.) How and Why You Should Systematize Your Life
+#### 22.) How and Why You Should Systematize Your Life
 
 - If you spend more than 5 hours/week on something, you should create a system
 - Do it once. Do your best. Document it. Systematize it.
@@ -276,9 +260,9 @@ If you have strong self-knowledge, negative emotions provide signals of things y
 
 # 
 
-[Pamela Slim](https://medium.com/u/b523d2b138a1?source=post_page-----5d12c577c7df--------------------------------)
+### [Pamela Slim](https://medium.com/u/b523d2b138a1?source=post_page-----5d12c577c7df--------------------------------)
 
-## 23.) How to Be Invaluable at Your Job
+#### 23.) How to Be Invaluable at Your Job
 
 - Be hyper-aware of market dynamics, not just trends
 - Think of your boss as a client
@@ -288,7 +272,7 @@ If you have strong self-knowledge, negative emotions provide signals of things y
 - Clearly define the people you want to emulate
 - Get very specific, clear feedback (and learn how to take it)
 
-## 24.) **Don’t Undervalue Yourself:**
+#### 24.) **Don’t Undervalue Yourself:**
 
 - You MUST charge what the market will bear
 - If you think it’s “too much,” invest it back into yourself
