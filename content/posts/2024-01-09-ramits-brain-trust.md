@@ -2,7 +2,7 @@
 title: "Ramit's Brain Trust Insights | Ramit Sethi"
 date: 2024-01-09
 description: "Ramit's Brain Trust Insights | Ramit Sethi"
-tags: ["Career"]
+tags: ["Career", "Productivity", "Future Self"]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true             # to enable showing equations (katex)
