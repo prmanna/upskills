@@ -1,0 +1,30 @@
+---
+title: "How to pass any first-round interview | Coach Erika"
+date: 2024-01-12
+description: "How to pass any first-round interview | Coach Erika"
+tags: ["Interview"]
+draft: false
+showDate: true         # to enable/disable showing dates
+math: true             # to enable showing equations (katex)
+chordsheet: true       # to add chordsheet styelsheet
+---
+### [How to pass any first-round interview](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview) by [Coach Erika](https://twitter.com/ErikaCoaches)
+
+The Career Whispers Erika- https://thecareerwhispers.substack.com/
+
+* Topic Covered:
+
+👀 Minimum Viable Interview Prep (MVIP) System
+📚 General Interview Prep
+📄 Resumes
+🤝 Job Networking
+🔎 Job Search Guides
+🤑 Compensation Negotiation
+🧰 Tools and Reviews
+👏 New Job Ramp Up
+🥶 Fixing Toxic and Dysfunctional Workplace Problems
+🏆 Mastering Your Job
+🦄 Optimizing Yourself
+🤫 Weekly Whispers
+
+
