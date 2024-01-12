@@ -8,9 +8,9 @@ showDate: true         # to enable/disable showing dates
 math: true             # to enable showing equations (katex)
 chordsheet: true       # to add chordsheet styelsheet
 ---
-### [How to pass any first-round interview](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview) by [Coach Erika](https://twitter.com/ErikaCoaches)
+### [How to pass any first-round interview](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview) by [Coach Erika](https://twitter.com/ErikaCoaches) in [Lenny's Newsletter](https://www.lennysnewsletter.com/)
 
-The Career Whispers Erika- https://thecareerwhispers.substack.com/
+The Career Whispers by Coach Erika - https://thecareerwhispers.substack.com/
 
 #### Topic Covered:
 
