@@ -13,6 +13,7 @@ chordsheet: true       # to add chordsheet styelsheet
 The Career Whispers by Coach Erika - https://thecareerwhispers.substack.com/
 #
 Note: most of the valuable topics are covered in paid coverage.
+#
 In my research, she has covered more in youtube (https://www.youtube.com/@CoachErika)
 
 #### [Topic Covered](https://thecareerwhispers.substack.com/p/posts-organized-by-topic):
