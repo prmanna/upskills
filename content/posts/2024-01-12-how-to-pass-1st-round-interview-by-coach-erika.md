@@ -12,19 +12,19 @@ chordsheet: true       # to add chordsheet styelsheet
 
 The Career Whispers Erika- https://thecareerwhispers.substack.com/
 
-* Topic Covered:
+#### Topic Covered:
 
-👀 Minimum Viable Interview Prep (MVIP) System
-📚 General Interview Prep
-📄 Resumes
-🤝 Job Networking
-🔎 Job Search Guides
-🤑 Compensation Negotiation
-🧰 Tools and Reviews
-👏 New Job Ramp Up
-🥶 Fixing Toxic and Dysfunctional Workplace Problems
-🏆 Mastering Your Job
-🦄 Optimizing Yourself
-🤫 Weekly Whispers
+* 👀 Minimum Viable Interview Prep (MVIP) System
+* 📚 General Interview Prep
+* 📄 Resumes
+* 🤝 Job Networking
+* 🔎 Job Search Guides
+* 🤑 Compensation Negotiation
+* 🧰 Tools and Reviews
+* 👏 New Job Ramp Up
+* 🥶 Fixing Toxic and Dysfunctional Workplace Problems
+* 🏆 Mastering Your Job
+* 🦄 Optimizing Yourself
+* 🤫 Weekly Whispers
 
 
