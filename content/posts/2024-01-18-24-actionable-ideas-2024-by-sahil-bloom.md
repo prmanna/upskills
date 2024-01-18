@@ -31,12 +31,12 @@ chordsheet: true        # to add chordsheet styelsheet
 * ##### To fall asleep faster, try the 4-7-8 method.
 * ##### To eat healthier, do all your shopping on the outer perimeter of the store.
 * ##### To start your day with energy, try my 5-5-5-30 method.
-When you wake up, do 5 push-ups, 5 squats, 5 lunges, and a 30-second plank. You can do it while you are brewing coffee or right when you get out of bed. It will jumpstart your metabolism and give you a boost of energy to start the day.
+    When you wake up, do 5 push-ups, 5 squats, 5 lunges, and a 30-second plank. You can do it while you are brewing coffee or right when you get out of bed. It will jumpstart your metabolism and give you a boost of energy to start the day.
 
 #### Money Actions
 * ##### To set your wealth on autopilot, create an automated direct deposit into an investment account every month.
 * ##### To improve the quality of your spending, never think twice about investments in yourself, but wait 48 hours on material purchases.
-Investments in yourself include books, sleep, fitness, network, quality food, mental health, and personal development. Never think twice on these.
+    Investments in yourself include books, sleep, fitness, network, quality food, mental health, and personal development. Never think twice on these.
 * ##### To clear your mind, automate all basic financial tasks such as paying bills, credit cards, and investing.
 
 #### References
