@@ -17,4 +17,4 @@ image: "/image/profile.png"
 * [How to create a productivity system | Paul Minors | Highbrow](https://gohighbrow.com/portfolio/how-to-create-a-productivity-system/)
 * [Work Smarter, Not Harder: The Science of Increasing Productivity | Listenable](https://listenable.io/web/courses/123/work-smarter-not-harder-the-science-of-increasing-productivity/)
 * [Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera](https://www.coursera.org/learn/learning-how-to-learn)
-* [Sit Less, Get Active | Coursera	Coursera - University of Edinburgh](https://www.coursera.org/learn/get-active)
+* [Sit Less, Get Active | Coursera - University of Edinburgh](https://www.coursera.org/learn/get-active)
