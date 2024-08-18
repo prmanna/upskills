@@ -11,6 +11,9 @@ image: "/image/profile.png"
 ### Appendix: Collection of Tech Skills
 * [Learn Tech Skills (Fast!)](https://hourups.com/)
 * [Marketing Examples](https://marketingexamples.com/)
+* [The World Of Growth Marketing](https://www.marketingexamined.com/)
+* [Become a smarter creator](https://creatorscience.com/)
+* [Making tech skills accessible - 100school](https://www.100school.com/)
 
 ### Appendix: Productivity Course
 * [The University of Queensland: The Science of Everyday Thinking | edX	- University of Queensland](https://www.edx.org/course/the-science-of-everyday-thinking)
