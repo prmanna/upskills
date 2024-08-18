@@ -15,9 +15,16 @@ image: "/image/profile.png"
 * [Become a smarter creator](https://creatorscience.com/)
 * [Making tech skills accessible - 100school](https://www.100school.com/)
 
+### Appendix: Course
+* [Start writing online in 30 days](https://www.ship30for30.com/)
+* [100 day challenge for publishing more on Twitter](https://tweet100.com/) - Closed as Twitter API changed.
+
 ### Appendix: Productivity Course
 * [The University of Queensland: The Science of Everyday Thinking | edX	- University of Queensland](https://www.edx.org/course/the-science-of-everyday-thinking)
 * [How to create a productivity system | Paul Minors | Highbrow](https://gohighbrow.com/portfolio/how-to-create-a-productivity-system/)
 * [Work Smarter, Not Harder: The Science of Increasing Productivity | Listenable](https://listenable.io/web/courses/123/work-smarter-not-harder-the-science-of-increasing-productivity/)
 * [Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera](https://www.coursera.org/learn/learning-how-to-learn)
 * [Sit Less, Get Active | Coursera - University of Edinburgh](https://www.coursera.org/learn/get-active)
+
+### Appendix: The newsletters
+* [The Growth Secrets of Top Creators](https://growthinreverse.com/)
