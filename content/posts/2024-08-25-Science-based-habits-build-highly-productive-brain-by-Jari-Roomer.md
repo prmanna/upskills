@@ -2,7 +2,7 @@
 title: "4 Science-based habits to build a highly productive brain| Jari Roomer"
 date: 2024-08-25
 description: "4 Science-based habits to build a highly productive brain| Jari Roomer"
-tags: ["Career"]
+tags: ["Mental Health"]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)
