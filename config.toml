@@ -13,14 +13,14 @@ enableemoji = false
 
 [params]
     description = "A description for the meta tag of the site"
-    googleSearch = ""
+    googleSearch = "hello"
     adsense = ""
     showDate = true # make false if dont want to show date
     math = false # best to enable this in the front matter of a page
     #githubProfile = ""
 
     tagsInHome = 40    # set zero to not show in home page
-    sectionsInHome = 0 # set zero to not show in home page
+    sectionsInHome = 5 # set zero to not show in home page
     paginatePostsPerPage = 5
     paginateTagsPerPage = 6
     favicon = "favicon.ico"
