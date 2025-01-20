@@ -19,7 +19,7 @@ subtitle = "Upskilling: A Strategy to Improve Your Professional Career."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/favicon.ico"
+src = "img/avatar.png"
 
 [article]
 headingAnchor = false
