@@ -12,7 +12,7 @@ chordsheet: true       # to add chordsheet styelsheet
 
 This brain trust provides access to knowledge, wisdom and proven strategies that top performers uses in business, psychology, finance, marketing, and entrepreneurship.
 
-{{< youtubepl id="PLPZCUlZ2z01kZ4dAg5IgWLB0ffDoHCjVi" title="Ramit's Brain Trust Insights | Ramit Sethi" >}}
+{{< youtube id="PLPZCUlZ2z01kZ4dAg5IgWLB0ffDoHCjVi" title="Ramit's Brain Trust Insights | Ramit Sethi" >}}
 
 #
 
