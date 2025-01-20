@@ -14,20 +14,23 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
+### Appendix: Collection of Tech Skills
+* [Learn Tech Skills (Fast!)](https://hourups.com/)
+* [Marketing Examples](https://marketingexamples.com/)
+* [The World Of Growth Marketing](https://www.marketingexamined.com/)
+* [Become a smarter creator](https://creatorscience.com/)
+* [Making tech skills accessible - 100school](https://www.100school.com/)
 
-This page's frontmatter:
+### Appendix: Course
+* [Start writing online in 30 days](https://www.ship30for30.com/)
+* [100 day challenge for publishing more on Twitter](https://tweet100.com/) - Closed as Twitter API changed.
 
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
+### Appendix: Productivity Course
+* [The University of Queensland: The Science of Everyday Thinking | edX	- University of Queensland](https://www.edx.org/course/the-science-of-everyday-thinking)
+* [How to create a productivity system | Paul Minors | Highbrow](https://gohighbrow.com/portfolio/how-to-create-a-productivity-system/)
+* [Work Smarter, Not Harder: The Science of Increasing Productivity | Listenable](https://listenable.io/web/courses/123/work-smarter-not-harder-the-science-of-increasing-productivity/)
+* [Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera](https://www.coursera.org/learn/learning-how-to-learn)
+* [Sit Less, Get Active | Coursera - University of Edinburgh](https://www.coursera.org/learn/get-active)
 
-`image` field accepts both local and external images.
+### Appendix: The newsletters
+* [The Growth Secrets of Top Creators](https://growthinreverse.com/)
