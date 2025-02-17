@@ -34,4 +34,5 @@ comments: false
 
 ### Appendix: The newsletters
 * [The Growth Secrets of Top Creators](https://growthinreverse.com/)
-
+* [Path to Senior Engineer Handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) by [Jordan Cutler](https://www.linkedin.com/in/jordancutler1/), [High Growth Engineer](https://read.highgrowthengineer.com/)
+* [Master programming by recreating your favorite technologies from scratch](https://github.com/codecrafters-io/build-your-own-x) by codecrafters.io, [CodeCrafters — Advanced code challenges for senior engineers](https://www.ycombinator.com/launches/Gh3-codecrafters-advanced-code-challenges-for-senior-engineers)
