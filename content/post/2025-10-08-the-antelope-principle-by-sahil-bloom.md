@@ -4,7 +4,7 @@ date: 2025-10-08
 description: "The Antelope Principle: How to Chase the Right Things | Sahil Bloom"
 tags: ["Career"]
 categories = [
-    "Test",
+    "Test"
 ]
 draft: false
 showDate: true         # to enable/disable showing dates
