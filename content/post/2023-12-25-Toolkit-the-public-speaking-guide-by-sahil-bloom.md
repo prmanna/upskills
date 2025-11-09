@@ -3,6 +3,7 @@ title: "Toolkit - The Public Speaking Guide | Sahil Bloom"
 date: 2023-12-25
 description: "Toolkit - The Public Speaking Guide | Sahil Bloom"
 tags: ["Toolkit", "Public Speaking"]
+categories: [ "Sahil Bloom" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)

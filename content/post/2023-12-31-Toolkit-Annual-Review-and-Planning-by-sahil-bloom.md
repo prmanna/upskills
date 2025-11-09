@@ -3,6 +3,7 @@ title: "Toolkit - Annual Review & Planning | Sahil Bloom"
 date: 2023-12-31
 description: "Toolkit - Annual Review & Planning | Sahil Bloom"
 tags: ["Toolkit", "Annual Planning"]
+categories: [ "Sahil Bloom" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)

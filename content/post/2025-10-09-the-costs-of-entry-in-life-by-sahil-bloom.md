@@ -3,7 +3,7 @@ title: "The Costs of Entry in Life | Sahil Bloom"
 date: 2025-10-09
 description: "The Costs of Entry in Life | Sahil Bloom"
 tags: ["Career"]
-categories: [ "Test" ]
+categories: [ "Sahil Bloom" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)

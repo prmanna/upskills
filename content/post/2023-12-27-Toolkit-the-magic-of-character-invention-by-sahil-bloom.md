@@ -3,6 +3,7 @@ title: "Toolkit - The Magic of Character Invention | Sahil Bloom"
 date: 2023-12-27
 description: "Toolkit - The Magic of Character Invention | Sahil Bloom"
 tags: ["Toolkit", "Future Self"]
+categories: [ "Sahil Bloom" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)

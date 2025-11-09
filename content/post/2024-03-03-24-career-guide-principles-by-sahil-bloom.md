@@ -3,6 +3,7 @@ title: "The Career Guide Principle | Sahil Bloom"
 date: 2024-03-03
 description: "The Career Guide Principle | Sahil Bloom"
 tags: ["Career"]
+categories: [ "Sahil Bloom" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)

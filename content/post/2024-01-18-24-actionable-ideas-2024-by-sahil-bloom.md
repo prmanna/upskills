@@ -3,6 +3,7 @@ title: "24 Ways to Change Your Life in 2024 | Sahil Bloom"
 date: 2024-01-18
 description: "24 Ways to Change Your Life in 2024 | Sahil Bloom"
 tags: ["Toolkit", "Future Self"]
+categories: [ "Sahil Bloom" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)

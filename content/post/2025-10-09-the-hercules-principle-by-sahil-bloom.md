@@ -3,7 +3,7 @@ title: "The Hercules Principle | Sahil Bloom"
 date: 2025-10-09
 description: "The Hercules Principle | Sahil Bloom"
 tags: ["Self Help"]
-categories: [ "Test" ]
+categories: [ "Sahil Bloom" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)

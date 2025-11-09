@@ -3,6 +3,7 @@ title: "The Letter to Your Future Self | Sahil Bloom"
 date: 2024-01-17
 description: "The Letter to Your Future Self | Sahil Bloom"
 tags: ["Future Self"]
+categories: [ "Sahil Bloom" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)

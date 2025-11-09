@@ -3,6 +3,7 @@ title: "The Think Day: Your Secret Weapon | Sahil Bloom"
 date: 2024-01-17
 description: "The Think Day: Your Secret Weapon | Sahil Bloom"
 tags: ["Toolkit", "Future Self"]
+categories: [ "Sahil Bloom" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)
