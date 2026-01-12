@@ -2,7 +2,7 @@
 title: "35 Life Lessons From 35 Years | Sahil Bloom"
 date: 2026-01-12
 description: "35 Life Lessons From 35 Years | Sahil Bloom"
-tags: ["Life Lessons"]
+tags: [ "Life Lessons" ]
 categories: [ "Sahil Bloom" ]
 draft: false
 showDate: true         # to enable/disable showing dates
