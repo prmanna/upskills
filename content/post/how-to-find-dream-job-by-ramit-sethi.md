@@ -3,6 +3,7 @@ title: "How to Find Your Dream Job: Career Research Guide | Ramit Sethi"
 date: 2023-11-26
 description: "How to Find Your Dream Job: Career Research Guide | Ramit Sethi"
 tags: ["Career"]
+categories: [ "Ramit Sethi" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)
