@@ -1,6 +1,6 @@
 ---
 title: "The 3-Step Framework That Helped Me Ace Behavioral Interviews | Pramoda Vyasarao"
-date: 2026-02-18
+date: 2026-02-19
 description: "The 3-Step Framework That Helped Me Ace Behavioral Interviews | Pramoda Vyasarao"
 tags: [ "Career" ]
 categories: [ "Pramoda Vyasarao" ]
