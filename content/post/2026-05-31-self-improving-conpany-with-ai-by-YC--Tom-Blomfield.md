@@ -29,5 +29,5 @@ In this recent batch talk, YC General Partner Tom Blomfield breaks down how to b
 [12:18](https://www.youtube.com/watch?v=t-G67yKAHBQ&t=738s) — Where Humans Still Matter
 
 
-{{< youtube id="t-G67yKAHBQ" title="Your network is your NET WORTH | Networking tips" >}}
+{{< youtube id="t-G67yKAHBQ" title="How to Build a Self-Improving Company with AI" >}}
 
