@@ -2,8 +2,8 @@
 title: "10 tips to level up your ai-assisted coding - Aleksander Stensby - NDC Copenhagen 2026"
 date: 2026-06-25
 description: "10 tips to level up your ai-assisted coding - Aleksander Stensby - NDC Copenhagen 2026"
-tags: [ "Future-AI" ]
-categories: [ "Agentic AI" ]
+tags: [ "Agentic-AI" ]
+categories: [ "" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)

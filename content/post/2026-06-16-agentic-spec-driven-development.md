@@ -2,8 +2,8 @@
 title: "Agentic Spec Driven Development - Articles"
 date: 2026-06-16
 description: "Agentic Spec Driven Development - Articles"
-tags: [ "Future-AI" ]
-categories: [ "Agentic AI" ]
+tags: [ "Agentic-AI" ]
+categories: [ "" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)
