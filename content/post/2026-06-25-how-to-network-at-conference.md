@@ -2,8 +2,8 @@
 title: "How to Network at a Conference"
 date: 2026-06-25
 description: "How to Network at a Conference"
-tags: [ "Future-AI" ]
-categories: [ "Agentic AI" ]
+tags: [ "Networking Event" ]
+categories: [ "" ]
 draft: false
 showDate: true         # to enable/disable showing dates
 math: true              # to enable showing equations (katex)
