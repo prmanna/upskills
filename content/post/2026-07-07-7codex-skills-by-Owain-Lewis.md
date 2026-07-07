@@ -30,4 +30,4 @@ https://newsletter.aiengineer.co/p/the-7-skills-i-actually-use-every
 
 https://github.com/owainlewis/blueprint/tree/main/skills
 
-
+https://aiengineer.co/
