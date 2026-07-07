@@ -1,7 +1,7 @@
 ---
-title: "Agentic Spec Driven Development - Articles"
-date: 2026-06-16
-description: "Agentic Spec Driven Development - Articles"
+title: "7 Codex Skills I Can't Live Without"
+date: 2026-07-07
+description: "7 Codex Skills I Can't Live Without"
 tags: [ "agent-skill" ]
 categories: [ "" ]
 draft: false
