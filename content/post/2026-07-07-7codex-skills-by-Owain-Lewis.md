@@ -14,6 +14,8 @@ chordsheet: true        # to add chordsheet styelsheet
 
 {{< youtube id="L_X2TEqRmR0" title="7 Codex Skills I Can't Live Without" >}}
 
+https://newsletter.aiengineer.co/p/the-7-skills-i-actually-use-every
+
 ⏱ Timestamps
 00:00 Intro
 00:50 Agent Skills
