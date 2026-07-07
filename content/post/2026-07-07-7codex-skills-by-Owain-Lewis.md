@@ -1,7 +1,7 @@
 ---
-title: "7 Codex Skills I Can't Live Without"
+title: "7 Codex Skills I Can't Live Without | Owain Lewis"
 date: 2026-07-07
-description: "7 Codex Skills I Can't Live Without"
+description: "7 Codex Skills I Can't Live Without | Owain Lewis"
 tags: [ "agent-skill" ]
 categories: [ "" ]
 draft: false
